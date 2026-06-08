@@ -1,7 +1,7 @@
 # Security-Assessment-and-Penetration-Testing-Report
 This project was completed as part of cybersecurity coursework in a controlled lab environment. The organization and findings are part of a simulated assessment for educational purposes.
-Executive Summary
 
+Executive Summary
 Protego Security Solutions was employed by Pixel Paradise Inc. to do a black-box penetration test of their web, network, and employee security. The main goal of this test was to find any vulnerabilities that could be used by an attacker and to check the organization’s overall security. Most of the testing was done using a black-box approach, with no knowledge of the internal systems. However, limited access was given for better testing of vulnerabilities, and certain workers were informed of the testing to avoid disruption of normal operations. This penetration test found multiple vulnerabilities across web applications, internal systems, and employee awareness. Issues included employees falling for phishing, injection flaws, weak access controls, exposed internal systems, and insecure IoT devices. These findings could allow unauthorized access, data loss, and lateral movement.
 
 Scope
